@@ -1,0 +1,1540 @@
+{
+  "updatedAt": "2026-10-16T10:58:08.169Z",
+  "adminConfig": {
+    "adminPassword": "0513",
+    "panelTitle": "POSBON AI — Maxfiy Admin Boshqaruv Paneli",
+    "botToken": "8917943761:AAE0KEsbRAmDHC1B2yXZaEhUPxhBfBq6k6w",
+    "botUsername": "POSBONXBOT",
+    "autoDeleteApkAndViruses": true,
+    "askBeforeDeletePhishingAndScam": true,
+    "system24x7Active": true,
+    "updatedAt": "2026-10-16T06:11:26.868Z"
+  },
+  "users": [
+    {
+      "chatId": "1801618199",
+      "userId": 1801618199,
+      "username": "user01_44",
+      "firstName": "Andijon viloyat IIB NQ",
+      "linkedAt": "2026-10-16T06:11:30.008Z",
+      "lastActiveAt": "2026-10-16T10:54:51.291Z",
+      "isActive": true,
+      "autoDeleteThreats": true,
+      "notifyOnSafe": false,
+      "totalScanned": 11,
+      "threatsBlocked": 0,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg"
+    },
+    {
+      "chatId": "8457038599",
+      "userId": 7939939949,
+      "username": "Rv524",
+      "firstName": "ا",
+      "lastName": "Inomova",
+      "linkedAt": "2026-10-16T06:13:48.118Z",
+      "lastActiveAt": "2026-10-16T06:13:56.106Z",
+      "isActive": true,
+      "autoDeleteThreats": true,
+      "notifyOnSafe": false,
+      "totalScanned": 1,
+      "threatsBlocked": 0
+    },
+    {
+      "chatId": "6328048545",
+      "userId": 6328048545,
+      "firstName": "Bosh Admin (Asosiy Nazorat)",
+      "linkedAt": "2026-10-16T10:50:22.770Z",
+      "lastActiveAt": "2026-10-16T10:50:22.770Z",
+      "isActive": true,
+      "autoDeleteThreats": true,
+      "notifyOnSafe": true,
+      "totalScanned": 0,
+      "threatsBlocked": 0
+    },
+    {
+      "chatId": "639424579",
+      "userId": 639424579,
+      "firstName": "🌼🌼🌼",
+      "linkedAt": "2026-10-16T10:50:25.628Z",
+      "lastActiveAt": "2026-10-16T10:58:08.169Z",
+      "isActive": true,
+      "autoDeleteThreats": true,
+      "notifyOnSafe": false,
+      "totalScanned": 6,
+      "threatsBlocked": 0,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY"
+    },
+    {
+      "chatId": "368833050",
+      "userId": 127782399,
+      "username": "HaydarovAdham",
+      "firstName": "И.И. Сайфутдинов",
+      "lastName": "Haydarov",
+      "linkedAt": "2026-10-16T10:51:44.276Z",
+      "lastActiveAt": "2026-10-16T10:52:23.384Z",
+      "isActive": true,
+      "autoDeleteThreats": true,
+      "notifyOnSafe": false,
+      "totalScanned": 1,
+      "threatsBlocked": 0,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY"
+    }
+  ],
+  "events": [
+    {
+      "id": "caa92e12-440c-4811-bdcf-01180f7291f5",
+      "chatId": "7153108572",
+      "ownerChatId": "639424579",
+      "messageId": 789667,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "Камолиддин Умаров",
+      "targetType": "document",
+      "targetName": "Asadova Malika dars ishlanma.pdf",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "PDF Hujjat (%PDF)",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Asadova Malika dars ishlanma.pdf\" (PDF Hujjat (%PDF)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (PDF Hujjat (%PDF)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Asadova Malika dars ishlanma.pdf\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:58:08.169Z",
+      "analysis": {
+        "id": "a3aebb7a-dd95-4427-b084-68fe4e8d2ff8",
+        "targetName": "Asadova Malika dars ishlanma.pdf",
+        "targetType": "document",
+        "mimeType": "application/pdf",
+        "detectedFormat": "PDF Hujjat (%PDF)",
+        "extensionMatchesBinary": true,
+        "fileSize": 957275,
+        "sha256": "c606aa2f50c509e747fa6937d944824abc5b15595d5babcd36115b9dec7db9f8",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Asadova Malika dars ishlanma.pdf\" (PDF Hujjat (%PDF)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (PDF Hujjat (%PDF)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Asadova Malika dars ishlanma.pdf\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: PDF Hujjat (%PDF)",
+          "SHA-256 nazorat summasi: c606aa2f50c509e747fa6937...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: PDF Hujjat (%PDF)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:58:08.169Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "c22a0049-e170-4992-82b9-7cc7497e7bd4",
+      "chatId": "428543186",
+      "ownerChatId": "639424579",
+      "messageId": 789657,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "Г. Мамитова",
+      "targetType": "document",
+      "targetName": "Shaxsiy yillik ish reja G Mamitova.xlsx",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Shaxsiy yillik ish reja G Mamitova.xlsx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Shaxsiy yillik ish reja G Mamitova.xlsx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:54:56.928Z",
+      "analysis": {
+        "id": "af71682c-e4ed-4c22-8e45-31700ba1bbe0",
+        "targetName": "Shaxsiy yillik ish reja G Mamitova.xlsx",
+        "targetType": "document",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+        "extensionMatchesBinary": true,
+        "fileSize": 27643,
+        "sha256": "f7fb261df20bfabb37b174535a460192a380967b912cea9c9cfa9b94212c9aa4",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Shaxsiy yillik ish reja G Mamitova.xlsx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Shaxsiy yillik ish reja G Mamitova.xlsx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+          "SHA-256 nazorat summasi: f7fb261df20bfabb37b17453...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (Microsoft Office OpenXML Hujjati (ZIP konteyner))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Microsoft Office OpenXML Hujjati (ZIP konteyner)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:54:56.928Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "0bcb083a-64ee-4ade-adb5-3e2ed22dacf3",
+      "chatId": "6415660172",
+      "ownerChatId": "1801618199",
+      "messageId": 3614,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": ".",
+      "targetType": "audio",
+      "targetName": "Ovozli_xabar_3614.ogg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "OGG Ovozli / Audio fayl",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Ovozli_xabar_3614.ogg\" (OGG Ovozli / Audio fayl) — standart va toza audio. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (OGG Ovozli / Audio fayl) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Ovozli_xabar_3614.ogg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:54:51.291Z",
+      "analysis": {
+        "id": "8721ff76-d3b6-4075-a37c-f22336613eb6",
+        "targetName": "Ovozli_xabar_3614.ogg",
+        "targetType": "audio",
+        "mimeType": "audio/ogg",
+        "detectedFormat": "OGG Ovozli / Audio fayl",
+        "extensionMatchesBinary": true,
+        "fileSize": 677788,
+        "sha256": "a091dd496f0d44be73ffb8521ff4e168fddefbc09e98bbe0f2baae45b1933893",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Ovozli_xabar_3614.ogg\" (OGG Ovozli / Audio fayl) — standart va toza audio. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (OGG Ovozli / Audio fayl) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Ovozli_xabar_3614.ogg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: OGG Ovozli / Audio fayl",
+          "SHA-256 nazorat summasi: a091dd496f0d44be73ffb852...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart audio formati (OGG Ovozli / Audio fayl)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: OGG Ovozli / Audio fayl"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:54:51.291Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "0387796e-a0d6-4fa3-903a-764d1ca42005",
+      "chatId": "7153108572",
+      "ownerChatId": "639424579",
+      "messageId": 789655,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "И.И. Сайфутдинов",
+      "targetType": "document",
+      "targetName": "ИИВ Аник фанлар.pdf",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "PDF Hujjat (%PDF)",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"ИИВ Аник фанлар.pdf\" (PDF Hujjat (%PDF)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (PDF Hujjat (%PDF)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"ИИВ Аник фанлар.pdf\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:54:40.907Z",
+      "analysis": {
+        "id": "6c66e9ae-47de-46d1-ba2d-bbcc35bd02e4",
+        "targetName": "ИИВ Аник фанлар.pdf",
+        "targetType": "document",
+        "mimeType": "application/pdf",
+        "detectedFormat": "PDF Hujjat (%PDF)",
+        "extensionMatchesBinary": true,
+        "fileSize": 585748,
+        "sha256": "07a4c62eb0927cfef6a219cc38e74afaf7f63b8bc8ea1509ca3d228ae4a14732",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"ИИВ Аник фанлар.pdf\" (PDF Hujjat (%PDF)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (PDF Hujjat (%PDF)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"ИИВ Аник фанлар.pdf\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: PDF Hujjat (%PDF)",
+          "SHA-256 nazorat summasi: 07a4c62eb0927cfef6a219cc...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: PDF Hujjat (%PDF)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:54:40.907Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "c110d2ba-cdaf-490b-88ee-0088d9699a56",
+      "chatId": "7153108572",
+      "ownerChatId": "639424579",
+      "messageId": 789654,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "И.И. Сайфутдинов",
+      "targetType": "document",
+      "targetName": "ИИВ ИГ фанлар.pdf",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 99,
+      "riskScore": 1,
+      "trustScore": 98,
+      "detectedFormat": "PDF Hujjat (%PDF)",
+      "threatCategory": "To'liq xavfsiz rasmiy hujjat (PDF)",
+      "whatIsInside": "Ushbu PDF fayl O'zbekiston Respublikasi Ichki ishlar vazirligi tizimidagi akademik litseylarning 'Ijtimoiy-gumanitar fanlar' yo'nalishi uchun tasdiqlangan Namunaviy o'quv rejasi hamda unga ilova qilingan tushuntirish xatining skanerlangan rasmiy nusxasidir. Hujjatda fanlar ro'yxati, dars soatlari taqsimoti, Oliy ta'lim, fan va innovatsiyalar vazirligi hamda IIV mutasaddilarining tasdiqlovchi imzolari va muhrlari mavjud. Fayl ichida hech qanday zararli skript, yashirin buyruq yoki xavfli dasturiy kod yo'q.",
+      "authenticityVerdict": "Hujjat mutlaqo haqiqiy va ishonchli idoraviy normativ-o'quv hujjati hisoblanadi. Unda davlat tashkilotlarining asl muhrlari, rekvizitlari va mas'ul shaxslarning haqiqiy imzolari aks ettirilgan.",
+      "summary": "Hurmatli foydalanuvchi, siz yuborgan hujjat to'liq tekshiruvdan o'tkazildi. Bu fayl mutlaqo toza, rasmiy va xavfsiz PDF hujjat bo'lib, qurilmangizga hech qanday tahdid solmaydi. Undan bemalol foydalanishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:54:29.700Z",
+      "analysis": {
+        "id": "32019c71-fc0e-4b39-8a84-8169cef739ca",
+        "targetName": "ИИВ ИГ фанлар.pdf",
+        "targetType": "document",
+        "mimeType": "application/pdf",
+        "detectedFormat": "PDF Hujjat (%PDF)",
+        "extensionMatchesBinary": true,
+        "fileSize": 3098128,
+        "sha256": "d8faa4477d33aea33a44f3c6ffec853bdf0dfc1cab427bc407552d52abda40a7",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 99,
+        "riskScore": 1,
+        "trustScore": 98,
+        "threatCategory": "To'liq xavfsiz rasmiy hujjat (PDF)",
+        "whatIsInside": "Ushbu PDF fayl O'zbekiston Respublikasi Ichki ishlar vazirligi tizimidagi akademik litseylarning 'Ijtimoiy-gumanitar fanlar' yo'nalishi uchun tasdiqlangan Namunaviy o'quv rejasi hamda unga ilova qilingan tushuntirish xatining skanerlangan rasmiy nusxasidir. Hujjatda fanlar ro'yxati, dars soatlari taqsimoti, Oliy ta'lim, fan va innovatsiyalar vazirligi hamda IIV mutasaddilarining tasdiqlovchi imzolari va muhrlari mavjud. Fayl ichida hech qanday zararli skript, yashirin buyruq yoki xavfli dasturiy kod yo'q.",
+        "authenticityVerdict": "Hujjat mutlaqo haqiqiy va ishonchli idoraviy normativ-o'quv hujjati hisoblanadi. Unda davlat tashkilotlarining asl muhrlari, rekvizitlari va mas'ul shaxslarning haqiqiy imzolari aks ettirilgan.",
+        "politeSummary": "Hurmatli foydalanuvchi, siz yuborgan hujjat to'liq tekshiruvdan o'tkazildi. Bu fayl mutlaqo toza, rasmiy va xavfsiz PDF hujjat bo'lib, qurilmangizga hech qanday tahdid solmaydi. Undan bemalol foydalanishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati toza PDF-1.4 standartida yaratilgan bo'lib, uning ichida faqat yuqori aniqlikdagi skanerlangan sahifa tasvirlari (DCTDecode) joylashgan.",
+          "Hujjat tarkibida xavfli JavaScript obyektlari (/JS, /JavaScript), avtomatik ishga tushuvchi buyruqlar (/Launch) yoki shubhali tashqi havolalar mavjud emas.",
+          "Binar tuzilmasi, kengaytmasi va MIME turi (application/pdf) 100% mos keladi, antivirus bazalarida hech qanday zararli imzo qayd etilmagan."
+        ],
+        "recommendations": [
+          "Faylni shaxsiy yoki xizmat maqsadlarida xavotirsiz ochishingiz, o'qishingiz va chop etishingiz mumkin.",
+          "Hujjat rasmiy o'quv reja bo'lgani sababli ta'lim jarayonida metodik qo'llanma sifatida foydalanishga to'liq yaroqlidir."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: PDF Hujjat (%PDF)"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "98% ishonchli (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "99% xavfsiz · To'liq xavfsiz rasmiy hujjat (PDF)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:54:29.700Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "ce7d86b1-6408-4c54-92a6-31c4e6846985",
+      "chatId": "6999969765",
+      "ownerChatId": "1801618199",
+      "messageId": 3613,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": ".",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3613.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Telegram_Rasm_3613.jpg\" (JPEG Tasvir) — standart va toza image. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (JPEG Tasvir) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Telegram_Rasm_3613.jpg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:54:08.040Z",
+      "analysis": {
+        "id": "95ad391c-7097-4e95-8f0b-67f62cdcc86f",
+        "targetName": "Telegram_Rasm_3613.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 160752,
+        "sha256": "2cb668a17fd8d142062ca7683e068d56c1803400891c7ff3b8f730f54e759c29",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Telegram_Rasm_3613.jpg\" (JPEG Tasvir) — standart va toza image. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (JPEG Tasvir) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Telegram_Rasm_3613.jpg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: JPEG Tasvir",
+          "SHA-256 nazorat summasi: 2cb668a17fd8d142062ca768...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:54:08.040Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "a9abd320-3d18-4edc-a94c-8f6009c3462c",
+      "chatId": "6999969765",
+      "ownerChatId": "1801618199",
+      "messageId": 3612,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Мансурбек Мамарасулович",
+      "senderUsername": "IIVMG7",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3612.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Telegram_Rasm_3612.jpg\" (JPEG Tasvir) — standart va toza image. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (JPEG Tasvir) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Telegram_Rasm_3612.jpg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:53:52.404Z",
+      "analysis": {
+        "id": "f3ab0fd1-e888-4ac8-8bf2-259f976e6980",
+        "targetName": "Telegram_Rasm_3612.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 159876,
+        "sha256": "537c3ae3969a5fa2e663dbf873c835c96a970c6066a098b4ecd47e527397462b",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Telegram_Rasm_3612.jpg\" (JPEG Tasvir) — standart va toza image. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (JPEG Tasvir) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Telegram_Rasm_3612.jpg\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: JPEG Tasvir",
+          "SHA-256 nazorat summasi: 537c3ae3969a5fa2e663dbf8...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:53:52.403Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "f525f755-f671-490a-820c-fecfa73316ce",
+      "chatId": "639424579",
+      "ownerChatId": "639424579",
+      "messageId": 789650,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "🌼🌼🌼",
+      "targetType": "document",
+      "targetName": "Dars jadvali № 2 16 oktyabr.xlsx",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Dars jadvali № 2 16 oktyabr.xlsx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Dars jadvali № 2 16 oktyabr.xlsx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:53:43.336Z",
+      "analysis": {
+        "id": "a395299f-be81-488c-b847-3bb923dfdedc",
+        "targetName": "Dars jadvali № 2 16 oktyabr.xlsx",
+        "targetType": "document",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+        "extensionMatchesBinary": true,
+        "fileSize": 119077,
+        "sha256": "059f42b294b4bb8d36f4b9aebf018fc7decaf58d5d7317540c6f4f119ddae8bf",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Dars jadvali № 2 16 oktyabr.xlsx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Dars jadvali № 2 16 oktyabr.xlsx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+          "SHA-256 nazorat summasi: 059f42b294b4bb8d36f4b9ae...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (Microsoft Office OpenXML Hujjati (ZIP konteyner))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Microsoft Office OpenXML Hujjati (ZIP konteyner)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:53:43.336Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "145bf399-fe66-4319-8879-05b5d65856a4",
+      "chatId": "6999969765",
+      "ownerChatId": "1801618199",
+      "messageId": 3610,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": ".",
+      "targetType": "video",
+      "targetName": "AD Andijon promo2.mp4",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 99,
+      "riskScore": 1,
+      "trustScore": 98,
+      "detectedFormat": "Noma'lum (Matn yoki Havola)",
+      "threatCategory": "To'liq xavfsiz media fayl (Promo video)",
+      "whatIsInside": "Ushbu fayl 131.5 megabaytlik toza MP4 formatidagi rasmiy promo videodir. Video ichida 'Adrenaline Drift Show' tadbiri e'loni, avtomobillar ko'rgazmasi, drift chiqishlari hamda konsert anonsi tasvirlangan. Unda hech qanday yashirin zararli kodlar, troyanlar, eksploytlar yoki fishing elementlari mavjud emas.",
+      "authenticityVerdict": "Ushbu ma'lumot va video to'liq haqiqiy va ishonchli. Yangi Andijon hududida o'tkazilishi rejalashtirilgan ommaviy avtomobil ko'rgazmasi va drift shousi uchun tayyorlangan rasmiy reklama roligi hisoblanadi, unda hech qanday firibgarlik yoki yolg'on alomatlari yo'q.",
+      "summary": "Hurmatli foydalanuvchi! Siz yuborgan video fayl POSBON AI tizimi tomonidan chuqur tekshirildi. Fayl 100% toza, haqiqiy tadbir anonsi bo'lib, qurilmangiz yoki Telegram akkauntingiz uchun mutlaqo xavfsizdir. Uni bemalol ko'rishingiz va do'stlaringizga ulashishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:53:02.700Z",
+      "analysis": {
+        "id": "b9b74188-0e49-4a41-bf1c-a5df3336e270",
+        "targetName": "AD Andijon promo2.mp4",
+        "targetType": "video",
+        "mimeType": "video/mp4",
+        "detectedFormat": "Noma'lum (Matn yoki Havola)",
+        "extensionMatchesBinary": true,
+        "fileSize": 137952030,
+        "sha256": "83b942622672e9c15ed42a9917c61f3ad05b3df01d70a8606bf222d89ae03adc",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 99,
+        "riskScore": 1,
+        "trustScore": 98,
+        "threatCategory": "To'liq xavfsiz media fayl (Promo video)",
+        "whatIsInside": "Ushbu fayl 131.5 megabaytlik toza MP4 formatidagi rasmiy promo videodir. Video ichida 'Adrenaline Drift Show' tadbiri e'loni, avtomobillar ko'rgazmasi, drift chiqishlari hamda konsert anonsi tasvirlangan. Unda hech qanday yashirin zararli kodlar, troyanlar, eksploytlar yoki fishing elementlari mavjud emas.",
+        "authenticityVerdict": "Ushbu ma'lumot va video to'liq haqiqiy va ishonchli. Yangi Andijon hududida o'tkazilishi rejalashtirilgan ommaviy avtomobil ko'rgazmasi va drift shousi uchun tayyorlangan rasmiy reklama roligi hisoblanadi, unda hech qanday firibgarlik yoki yolg'on alomatlari yo'q.",
+        "politeSummary": "Hurmatli foydalanuvchi! Siz yuborgan video fayl POSBON AI tizimi tomonidan chuqur tekshirildi. Fayl 100% toza, haqiqiy tadbir anonsi bo'lib, qurilmangiz yoki Telegram akkauntingiz uchun mutlaqo xavfsizdir. Uni bemalol ko'rishingiz va do'stlaringizga ulashishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati standart video/mp4 konteyneriga to'liq mos keladi va zararli oqimlar aniqlanmadi.",
+          "SHA-256 xesh tekshiruvi bo'yicha hech qanday zararli dastur yoki ma'lum kiberhujum bazalarida qayd etilmagan.",
+          "Faylda yashirin skriptlar, makroslar yoki zararli bajariluvchi fayl fragmentlari mavjud emas.",
+          "Fayl hajmi (131.5 MB) yuqori sifatli video oqimiga mos bo'lib, sun'iy yuklanish aniqlanmadi."
+        ],
+        "recommendations": [
+          "Videoni o'z xohishingizga ko'ra istalgan media pleyer orqali xotirjam tomosha qilishingiz mumkin.",
+          "Tadbirga tashrif buyurmoqchi bo'lsangiz, tashkilotchilarning rasmiy sahifalaridagi yangiliklarni ham kuzatib boring.",
+          "Barcha shubhali fayllarni ochishdan oldin doimo POSBON AI bilan tekshirib turishingiz tavsiya etiladi."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart video formati (Noma'lum (Matn yoki Havola))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Noma'lum (Matn yoki Havola)"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "98% ishonchli (Noma'lum (Matn yoki Havola))"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "99% xavfsiz · To'liq xavfsiz media fayl (Promo video)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:53:02.700Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "a37feb98-af4e-464c-bb8f-598d92d770ae",
+      "chatId": "58998475",
+      "ownerChatId": "1801618199",
+      "messageId": 3609,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Абдумажид Шермухамедов",
+      "targetType": "video",
+      "targetName": "AD Andijon promo2.mp4",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 99,
+      "riskScore": 1,
+      "trustScore": 98,
+      "detectedFormat": "Noma'lum (Matn yoki Havola)",
+      "threatCategory": "To'liq xavfsiz media fayl (Promo video)",
+      "whatIsInside": "Ushbu fayl 131.5 megabaytlik toza MP4 formatidagi rasmiy promo videodir. Video ichida 'Adrenaline Drift Show' tadbiri e'loni, avtomobillar ko'rgazmasi, drift chiqishlari hamda konsert anonsi tasvirlangan. Unda hech qanday yashirin zararli kodlar, troyanlar, eksploytlar yoki fishing elementlari mavjud emas.",
+      "authenticityVerdict": "Ushbu ma'lumot va video to'liq haqiqiy va ishonchli. Yangi Andijon hududida o'tkazilishi rejalashtirilgan ommaviy avtomobil ko'rgazmasi va drift shousi uchun tayyorlangan rasmiy reklama roligi hisoblanadi, unda hech qanday firibgarlik yoki yolg'on alomatlari yo'q.",
+      "summary": "Hurmatli foydalanuvchi! Siz yuborgan video fayl POSBON AI tizimi tomonidan chuqur tekshirildi. Fayl 100% toza, haqiqiy tadbir anonsi bo'lib, qurilmangiz yoki Telegram akkauntingiz uchun mutlaqo xavfsizdir. Uni bemalol ko'rishingiz va do'stlaringizga ulashishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:53:01.431Z",
+      "analysis": {
+        "id": "8ceac2e7-5c59-45e1-b63d-cbfdf0a114a6",
+        "targetName": "AD Andijon promo2.mp4",
+        "targetType": "video",
+        "mimeType": "video/mp4",
+        "detectedFormat": "Noma'lum (Matn yoki Havola)",
+        "extensionMatchesBinary": true,
+        "fileSize": 137952030,
+        "sha256": "83b942622672e9c15ed42a9917c61f3ad05b3df01d70a8606bf222d89ae03adc",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 99,
+        "riskScore": 1,
+        "trustScore": 98,
+        "threatCategory": "To'liq xavfsiz media fayl (Promo video)",
+        "whatIsInside": "Ushbu fayl 131.5 megabaytlik toza MP4 formatidagi rasmiy promo videodir. Video ichida 'Adrenaline Drift Show' tadbiri e'loni, avtomobillar ko'rgazmasi, drift chiqishlari hamda konsert anonsi tasvirlangan. Unda hech qanday yashirin zararli kodlar, troyanlar, eksploytlar yoki fishing elementlari mavjud emas.",
+        "authenticityVerdict": "Ushbu ma'lumot va video to'liq haqiqiy va ishonchli. Yangi Andijon hududida o'tkazilishi rejalashtirilgan ommaviy avtomobil ko'rgazmasi va drift shousi uchun tayyorlangan rasmiy reklama roligi hisoblanadi, unda hech qanday firibgarlik yoki yolg'on alomatlari yo'q.",
+        "politeSummary": "Hurmatli foydalanuvchi! Siz yuborgan video fayl POSBON AI tizimi tomonidan chuqur tekshirildi. Fayl 100% toza, haqiqiy tadbir anonsi bo'lib, qurilmangiz yoki Telegram akkauntingiz uchun mutlaqo xavfsizdir. Uni bemalol ko'rishingiz va do'stlaringizga ulashishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati standart video/mp4 konteyneriga to'liq mos keladi va zararli oqimlar aniqlanmadi.",
+          "SHA-256 xesh tekshiruvi bo'yicha hech qanday zararli dastur yoki ma'lum kiberhujum bazalarida qayd etilmagan.",
+          "Faylda yashirin skriptlar, makroslar yoki zararli bajariluvchi fayl fragmentlari mavjud emas.",
+          "Fayl hajmi (131.5 MB) yuqori sifatli video oqimiga mos bo'lib, sun'iy yuklanish aniqlanmadi."
+        ],
+        "recommendations": [
+          "Videoni o'z xohishingizga ko'ra istalgan media pleyer orqali xotirjam tomosha qilishingiz mumkin.",
+          "Tadbirga tashrif buyurmoqchi bo'lsangiz, tashkilotchilarning rasmiy sahifalaridagi yangiliklarni ham kuzatib boring.",
+          "Barcha shubhali fayllarni ochishdan oldin doimo POSBON AI bilan tekshirib turishingiz tavsiya etiladi."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart video formati (Noma'lum (Matn yoki Havola))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Noma'lum (Matn yoki Havola)"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "98% ishonchli (Noma'lum (Matn yoki Havola))"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "99% xavfsiz · To'liq xavfsiz media fayl (Promo video)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:53:01.431Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "9268864b-8151-47c2-a042-a44f944d0e8a",
+      "chatId": "1801618199",
+      "ownerChatId": "1801618199",
+      "messageId": 3608,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Andijon viloyat IIB NQ",
+      "senderUsername": "user01_44",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3608.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 95,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "To'liq xavfsiz va ishonchli",
+      "whatIsInside": "Ushbu fayl Andijon viloyatidagi masjidlarda 2026-yil 16-oktabr kungi juma namozi bo'yicha statistik ma'lumotlar aks etgan jadval tasviridir. Unda tumanlar kesimida masjidlar soni, namozxonlar yoshi va boshqa ma'muriy hisobot ko'rsatkichlari keltirilgan.",
+      "authenticityVerdict": "Ma'lumotlar rasmiy statistik hisobot ko'rinishida va vizual jihatdan haqiqiy ko'rinadi. Biroq, hujjatdagi sana (2026-yil) kelajakka oid bo'lgani uchun texnik xatolik yoki xat yozilishida e'tiborsizlik bo'lishi mumkin. Mazmunan zararli kodlar yoki fishing elementlari mavjud emas.",
+      "summary": "Hurmatli foydalanuvchi, tahlil qilingan rasm fayli to'liq xavfsiz. Unda hech qanday zararli dasturiy kod yoki xavfli modullar aniqlanmadi. Bu shunchaki ma'lumotlar jadvali tasviridir, shuning uchun bemalol foydalanishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:52:22.845Z",
+      "analysis": {
+        "id": "eab27d96-0fc7-4f33-b513-d065b2cb5f83",
+        "targetName": "Telegram_Rasm_3608.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 192442,
+        "sha256": "0b922e5840f56e03e6075b663f59277dac581632a5bdf365a0660c992e7f3f0c",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 95,
+        "threatCategory": "To'liq xavfsiz va ishonchli",
+        "whatIsInside": "Ushbu fayl Andijon viloyatidagi masjidlarda 2026-yil 16-oktabr kungi juma namozi bo'yicha statistik ma'lumotlar aks etgan jadval tasviridir. Unda tumanlar kesimida masjidlar soni, namozxonlar yoshi va boshqa ma'muriy hisobot ko'rsatkichlari keltirilgan.",
+        "authenticityVerdict": "Ma'lumotlar rasmiy statistik hisobot ko'rinishida va vizual jihatdan haqiqiy ko'rinadi. Biroq, hujjatdagi sana (2026-yil) kelajakka oid bo'lgani uchun texnik xatolik yoki xat yozilishida e'tiborsizlik bo'lishi mumkin. Mazmunan zararli kodlar yoki fishing elementlari mavjud emas.",
+        "politeSummary": "Hurmatli foydalanuvchi, tahlil qilingan rasm fayli to'liq xavfsiz. Unda hech qanday zararli dasturiy kod yoki xavfli modullar aniqlanmadi. Bu shunchaki ma'lumotlar jadvali tasviridir, shuning uchun bemalol foydalanishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati JPEG bo'lib, metadata va binar tuzilishi toza.",
+          "Hech qanday steganografik (rasm ichiga yashirilgan) zararli fayllar topilmadi.",
+          "Dasturiy kod qismlari (shellcode) yoki fishing havolalar mavjud emas.",
+          "Rasmning binar imzosida hech qanday shubhali xatti-harakatlar aniqlanmadi."
+        ],
+        "recommendations": [
+          "Hujjatdagi sanani (2026-yil) tekshirib ko'ring, chunki u kelajakdagi sana hisoblanadi.",
+          "Rasmiy hisobotlar bilan ishlaganda har doim asl manba bilan solishtirishni unutmang."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "95% ishonchli (JPEG Tasvir)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "100% xavfsiz · To'liq xavfsiz va ishonchli"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:52:22.845Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "4353226c-b3bd-46fe-ab13-f9829f1ab390",
+      "chatId": "1801618199",
+      "ownerChatId": "1801618199",
+      "messageId": 3608,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Andijon viloyat IIB NQ",
+      "senderUsername": "user01_44",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3608.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 95,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "To'liq xavfsiz va ishonchli",
+      "whatIsInside": "Ushbu fayl Andijon viloyatidagi masjidlarda 2026-yil 16-oktabr kungi juma namozi bo'yicha statistik ma'lumotlar aks etgan jadval tasviridir. Unda tumanlar kesimida masjidlar soni, namozxonlar yoshi va boshqa ma'muriy hisobot ko'rsatkichlari keltirilgan.",
+      "authenticityVerdict": "Ma'lumotlar rasmiy statistik hisobot ko'rinishida va vizual jihatdan haqiqiy ko'rinadi. Biroq, hujjatdagi sana (2026-yil) kelajakka oid bo'lgani uchun texnik xatolik yoki xat yozilishida e'tiborsizlik bo'lishi mumkin. Mazmunan zararli kodlar yoki fishing elementlari mavjud emas.",
+      "summary": "Hurmatli foydalanuvchi, tahlil qilingan rasm fayli to'liq xavfsiz. Unda hech qanday zararli dasturiy kod yoki xavfli modullar aniqlanmadi. Bu shunchaki ma'lumotlar jadvali tasviridir, shuning uchun bemalol foydalanishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:52:20.582Z",
+      "analysis": {
+        "id": "92246b42-1d55-4bf2-a31d-481cb24b1fcc",
+        "targetName": "Telegram_Rasm_3608.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 192442,
+        "sha256": "0b922e5840f56e03e6075b663f59277dac581632a5bdf365a0660c992e7f3f0c",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 95,
+        "threatCategory": "To'liq xavfsiz va ishonchli",
+        "whatIsInside": "Ushbu fayl Andijon viloyatidagi masjidlarda 2026-yil 16-oktabr kungi juma namozi bo'yicha statistik ma'lumotlar aks etgan jadval tasviridir. Unda tumanlar kesimida masjidlar soni, namozxonlar yoshi va boshqa ma'muriy hisobot ko'rsatkichlari keltirilgan.",
+        "authenticityVerdict": "Ma'lumotlar rasmiy statistik hisobot ko'rinishida va vizual jihatdan haqiqiy ko'rinadi. Biroq, hujjatdagi sana (2026-yil) kelajakka oid bo'lgani uchun texnik xatolik yoki xat yozilishida e'tiborsizlik bo'lishi mumkin. Mazmunan zararli kodlar yoki fishing elementlari mavjud emas.",
+        "politeSummary": "Hurmatli foydalanuvchi, tahlil qilingan rasm fayli to'liq xavfsiz. Unda hech qanday zararli dasturiy kod yoki xavfli modullar aniqlanmadi. Bu shunchaki ma'lumotlar jadvali tasviridir, shuning uchun bemalol foydalanishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati JPEG bo'lib, metadata va binar tuzilishi toza.",
+          "Hech qanday steganografik (rasm ichiga yashirilgan) zararli fayllar topilmadi.",
+          "Dasturiy kod qismlari (shellcode) yoki fishing havolalar mavjud emas.",
+          "Rasmning binar imzosida hech qanday shubhali xatti-harakatlar aniqlanmadi."
+        ],
+        "recommendations": [
+          "Hujjatdagi sanani (2026-yil) tekshirib ko'ring, chunki u kelajakdagi sana hisoblanadi.",
+          "Rasmiy hisobotlar bilan ishlaganda har doim asl manba bilan solishtirishni unutmang."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "95% ishonchli (JPEG Tasvir)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "100% xavfsiz · To'liq xavfsiz va ishonchli"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:52:20.582Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "0866f7aa-21fc-455d-bb85-1f1ce90ef1ec",
+      "chatId": "368833050",
+      "ownerChatId": "368833050",
+      "messageId": 789644,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "И.И. Сайфутдинов",
+      "targetType": "document",
+      "targetName": "Pedagogik kengash Nizomi.docx",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+      "threatCategory": "To'liq Xavfsiz va Ishonchli",
+      "whatIsInside": "\"Pedagogik kengash Nizomi.docx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+      "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+      "summary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Pedagogik kengash Nizomi.docx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:51:49.890Z",
+      "analysis": {
+        "id": "4d146bf5-e7b2-42ef-8385-dcb977901697",
+        "targetName": "Pedagogik kengash Nizomi.docx",
+        "targetType": "document",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+        "extensionMatchesBinary": true,
+        "fileSize": 25206,
+        "sha256": "ed9fd26b2f0178fbeae05a60e6a8f56e665c6061e51bea9ae5dab4b29315011a",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "To'liq Xavfsiz va Ishonchli",
+        "whatIsInside": "\"Pedagogik kengash Nizomi.docx\" (Microsoft Office OpenXML Hujjati (ZIP konteyner)) — standart va toza document. Ichida hech qanday yashirin virus, troyan, zararli makros yoki shubhali kod yo'q.",
+        "authenticityVerdict": "Faylning haqiqiy formati (Microsoft Office OpenXML Hujjati (ZIP konteyner)) o'z nomiga to'liq mos keladi. Ma'lumotlar ishonchliligi: 100%.",
+        "politeSummary": "Assalomu alaykum, hurmatli foydalanuvchi! \"Pedagogik kengash Nizomi.docx\" chuqur tekshirildi. Rostini aytganda, bu fayl 100% xavfsiz va 100% ishonchli — undan xotirjam foydalanishingiz mumkin!",
+        "technicalDetails": [
+          "Haqiqiy binar formati: Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+          "SHA-256 nazorat summasi: ed9fd26b2f0178fbeae05a60...",
+          "Zararli imzolar, yashirin skriptlar va fishing bazalarida topilmadi"
+        ],
+        "recommendations": [
+          "Fayl to'liq xavfsiz, bemalol ochishingiz va foydalanishingiz mumkin."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (Microsoft Office OpenXML Hujjati (ZIP konteyner))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Microsoft Office OpenXML Hujjati (ZIP konteyner)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:51:49.890Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "b8321155-a4c5-4c90-a29e-17b6aff3c6c7",
+      "chatId": "639424579",
+      "ownerChatId": "639424579",
+      "messageId": 789643,
+      "businessConnectionId": "FDfVSxR9iEqkFwAAJccmPyAGWXY",
+      "senderName": "🌼🌼🌼",
+      "targetType": "document",
+      "targetName": "Shaxsiy yillik ish reja янги.xlsx",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 98,
+      "riskScore": 2,
+      "trustScore": 95,
+      "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+      "threatCategory": "To'liq xavfsiz va ishonchli",
+      "whatIsInside": "Ushbu fayl Microsoft Excel dasturining standart OpenXML (.xlsx) jadval hujjatidir. Fayl ichida 5 ta alohida ishchi varaq (sheet1-sheet5), hisob-kitob zanjiri (calcChain), bosib chiqarish sozlamalari hamda matnli satrlar (sharedStrings) mavjud. Eng muhimi, hujjat ichida hech qanday yashirin VBA makroslari (vbaProject.bin), tashqi zararli havolalar yoki avtomatik ishga tushuvchi skriptlar yo'q. Bu 2025-2026 yillarga mo'ljallangan odatiy shaxsiy ish reja hujjati.",
+      "authenticityVerdict": "Hujjat 100% haqiqiy va toza. Fayl tuzilishi, kengaytmasi va uning binar imzosi to'liq mos keladi. Hech qanday soxtalashtirish yoki troyan belgilari aniqlanmadi.",
+      "summary": "Hurmatli foydalanuvchi! POSBON AI tahliliga ko'ra, siz yuborgan 'Shaxsiy yillik ish reja янги.xlsx' hujjati mutlaqo toza va xavfsiz. Undan hech qanday shubhasiz va xotirjam foydalanishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T10:51:42.761Z",
+      "analysis": {
+        "id": "9b1fce89-ce4a-4724-b149-72dda76368be",
+        "targetName": "Shaxsiy yillik ish reja янги.xlsx",
+        "targetType": "document",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "detectedFormat": "Microsoft Office OpenXML Hujjati (ZIP konteyner)",
+        "extensionMatchesBinary": true,
+        "fileSize": 24162,
+        "sha256": "ccaeeb6a4f5c6a46dc2a7c4b285d04053ef361cbf2f4bbcf1e233b63069e9cd8",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 98,
+        "riskScore": 2,
+        "trustScore": 95,
+        "threatCategory": "To'liq xavfsiz va ishonchli",
+        "whatIsInside": "Ushbu fayl Microsoft Excel dasturining standart OpenXML (.xlsx) jadval hujjatidir. Fayl ichida 5 ta alohida ishchi varaq (sheet1-sheet5), hisob-kitob zanjiri (calcChain), bosib chiqarish sozlamalari hamda matnli satrlar (sharedStrings) mavjud. Eng muhimi, hujjat ichida hech qanday yashirin VBA makroslari (vbaProject.bin), tashqi zararli havolalar yoki avtomatik ishga tushuvchi skriptlar yo'q. Bu 2025-2026 yillarga mo'ljallangan odatiy shaxsiy ish reja hujjati.",
+        "authenticityVerdict": "Hujjat 100% haqiqiy va toza. Fayl tuzilishi, kengaytmasi va uning binar imzosi to'liq mos keladi. Hech qanday soxtalashtirish yoki troyan belgilari aniqlanmadi.",
+        "politeSummary": "Hurmatli foydalanuvchi! POSBON AI tahliliga ko'ra, siz yuborgan 'Shaxsiy yillik ish reja янги.xlsx' hujjati mutlaqo toza va xavfsiz. Undan hech qanday shubhasiz va xotirjam foydalanishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati: Haqiqiy Microsoft Excel OpenXML hujjati (.xlsx), binar imzo to'liq mos.",
+          "Zararli makroslar mavjud emas: Konteynerda 'vbaProject.bin' yoki avtomatik bajariluvchi skriptlar yo'q.",
+          "Tuzilma yaxlitligi: 5 ta jadval varag'i, hisob-kitoblar va formatlash qismlari toza standart XML bloklaridan iborat.",
+          "Evristik xavf tahlili: 0/100 (Hech qanday shubhali faollik yoki fishing havolalari aniqlanmadi)."
+        ],
+        "recommendations": [
+          "Hujjatni Microsoft Excel yoki boshqa jadval muharrirlarida xavotirsiz ochishingiz va tahrirlashingiz mumkin.",
+          "Fayl xavfsiz bo'lsa-da, kelajakda boshqa noma'lum shaxslardan .xlsm (makrosli) formatdagi fayllar kelsa, makroslarni yoqishda ehtiyot bo'ling."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (Microsoft Office OpenXML Hujjati (ZIP konteyner))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Microsoft Office OpenXML Hujjati (ZIP konteyner)"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "95% ishonchli (Microsoft Office OpenXML Hujjati (ZIP konteyner))"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "98% xavfsiz · To'liq xavfsiz va ishonchli"
+          }
+        ],
+        "analyzedAt": "2026-10-16T10:51:42.761Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "e637025e-4e3c-4606-9ea4-56baca8765fe",
+      "chatId": "6999969765",
+      "ownerChatId": "1801618199",
+      "messageId": 3550,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": ".",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3550.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 70,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "Statistik ma'lumotlar jadvali",
+      "whatIsInside": "Ushbu rasm Andijon viloyati tumanlari bo'yicha ma'lum bir ko'rsatkichlarni (ehtimol, elektr energiyasi iste'moli, aholi soni yoki boshqa statistik ma'lumotlar) o'z ichiga olgan jadvaldan iborat. Rasmdagi raqamlar matematik ketma-ketlikda bo'lib, hech qanday zararli dasturiy kod yoki yashirin havolalar mavjud emas.",
+      "authenticityVerdict": "Ma'lumotlar vizual jihatdan haqiqiy ko'rinadi, biroq jadval sarlavhasida '15.10.2026' deb yozilgan. Hozirgi sana 2026-yil bo'lmagani uchun bu kelajakka oid prognoz yoki noto'g'ri kiritilgan sana bo'lishi mumkin. Ma'lumotlar tarkibi oddiy statistika, ammo sanadagi xatolik uning rasmiy hujjat ekanligiga shubha uyg'otadi.",
+      "summary": "Assalomu alaykum! Yuborgan rasmingiz tahlil qilindi. Bu shunchaki statistik jadval aks etgan rasm va u qurilmangiz uchun mutlaqo xavfsiz. Unda hech qanday virus yoki fishing elementlari topilmadi, xotirjam bo'lishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T06:14:05.727Z",
+      "analysis": {
+        "id": "f0d3bc97-cc07-47b4-99c7-14201275562e",
+        "targetName": "Telegram_Rasm_3550.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 91726,
+        "sha256": "59944efc48c663c15d3eb15ff5c53bbe3216f5283cecdf3cb552d43c18923fb7",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 70,
+        "threatCategory": "Statistik ma'lumotlar jadvali",
+        "whatIsInside": "Ushbu rasm Andijon viloyati tumanlari bo'yicha ma'lum bir ko'rsatkichlarni (ehtimol, elektr energiyasi iste'moli, aholi soni yoki boshqa statistik ma'lumotlar) o'z ichiga olgan jadvaldan iborat. Rasmdagi raqamlar matematik ketma-ketlikda bo'lib, hech qanday zararli dasturiy kod yoki yashirin havolalar mavjud emas.",
+        "authenticityVerdict": "Ma'lumotlar vizual jihatdan haqiqiy ko'rinadi, biroq jadval sarlavhasida '15.10.2026' deb yozilgan. Hozirgi sana 2026-yil bo'lmagani uchun bu kelajakka oid prognoz yoki noto'g'ri kiritilgan sana bo'lishi mumkin. Ma'lumotlar tarkibi oddiy statistika, ammo sanadagi xatolik uning rasmiy hujjat ekanligiga shubha uyg'otadi.",
+        "politeSummary": "Assalomu alaykum! Yuborgan rasmingiz tahlil qilindi. Bu shunchaki statistik jadval aks etgan rasm va u qurilmangiz uchun mutlaqo xavfsiz. Unda hech qanday virus yoki fishing elementlari topilmadi, xotirjam bo'lishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl formati: JPEG (standart tasvir formati).",
+          "Zararli kodlar (payload) aniqlanmadi.",
+          "Struktura: Oddiy matnli jadval tasviri.",
+          "Meta-ma'lumotlar: Hech qanday xavfli skript yoki yashirin fayl tizimi belgilari yo'q."
+        ],
+        "recommendations": [
+          "Rasm mazmunidagi 2026-yil sanasiga e'tibor bering, bu ma'lumotlar xato bo'lishi mumkin.",
+          "Statistik ma'lumotlarning rasmiyligini tekshirish uchun tegishli idoralarning rasmiy veb-saytlariga murojaat qiling.",
+          "Ushbu faylni saqlashda hech qanday xavf yo'q."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "warn",
+            "detail": "70% ishonchli (JPEG Tasvir)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "100% xavfsiz · Statistik ma'lumotlar jadvali"
+          }
+        ],
+        "analyzedAt": "2026-10-16T06:14:05.727Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "e8a412cc-6061-4ad2-be15-8fd73d462f8b",
+      "chatId": "8457038599",
+      "ownerChatId": "8457038599",
+      "messageId": 47104,
+      "businessConnectionId": "Ix-WECLEYEoiGQAARXVA32K9mf4",
+      "senderName": "ا",
+      "senderUsername": "Rv524",
+      "targetType": "document",
+      "targetName": "3-dars_Geometriya_Uyga_vazifa.pdf",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 100,
+      "detectedFormat": "PDF Hujjat (%PDF)",
+      "threatCategory": "Ta'limiy material (PDF)",
+      "whatIsInside": "Ushbu PDF hujjati matematika faniga oid 15 ta geometrik masalalar va ularning javoblar kalitini o'z ichiga olgan o'quv qo'llanmasidir. Hujjat tarkibida zararli kodlar, skriptlar yoki fishing havolalar mavjud emas, u butunlay xavfsiz.",
+      "authenticityVerdict": "Ma'lumotlar to'liq haqiqiy va ishonchli. Hujjatda ko'rsatilgan muallif va Telegram manbasi (@olimpiada_mathuz) matematik masalalar bilan shug'ullanuvchi kanalga tegishli ekanligi ko'rinib turibdi.",
+      "summary": "Hurmatli foydalanuvchi, siz yuborgan ushbu PDF hujjati to'liq xavfsiz va ta'limiy maqsadlarda yaratilgan. Unda hech qanday tahdid yo'q, bemalol foydalanishingiz mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T06:13:56.106Z",
+      "analysis": {
+        "id": "9fc01345-eafc-4548-9e9a-de5ed2f834a7",
+        "targetName": "3-dars_Geometriya_Uyga_vazifa.pdf",
+        "targetType": "document",
+        "mimeType": "application/pdf",
+        "detectedFormat": "PDF Hujjat (%PDF)",
+        "extensionMatchesBinary": true,
+        "fileSize": 40828,
+        "sha256": "197c3949cda2822a9a78c7c0de8bd4f1fb03231820c9a40fffb4f1f6840deac7",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 100,
+        "threatCategory": "Ta'limiy material (PDF)",
+        "whatIsInside": "Ushbu PDF hujjati matematika faniga oid 15 ta geometrik masalalar va ularning javoblar kalitini o'z ichiga olgan o'quv qo'llanmasidir. Hujjat tarkibida zararli kodlar, skriptlar yoki fishing havolalar mavjud emas, u butunlay xavfsiz.",
+        "authenticityVerdict": "Ma'lumotlar to'liq haqiqiy va ishonchli. Hujjatda ko'rsatilgan muallif va Telegram manbasi (@olimpiada_mathuz) matematik masalalar bilan shug'ullanuvchi kanalga tegishli ekanligi ko'rinib turibdi.",
+        "politeSummary": "Hurmatli foydalanuvchi, siz yuborgan ushbu PDF hujjati to'liq xavfsiz va ta'limiy maqsadlarda yaratilgan. Unda hech qanday tahdid yo'q, bemalol foydalanishingiz mumkin.",
+        "technicalDetails": [
+          "Fayl binar tuzilishi standart PDF 1.5 formatiga mos keladi.",
+          "Tarkibida hech qanday yashirin JavaScript, makrolar yoki bajariladigan kodlar aniqlanmadi.",
+          "Hujjat tarkibi faqat geometriya masalalari va javoblaridan iborat matnli hamda tasvirli ma'lumotlar bilan cheklangan.",
+          "SHA-256 xesh qiymati va fayl hajmi normal darajada, hech qanday manipulyatsiya izlari yo'q."
+        ],
+        "recommendations": [
+          "Ushbu faylni o'qish uchun standart PDF dasturlaridan (Adobe Reader, PDF Viewer) foydalanishni tavsiya qilaman.",
+          "Ta'limiy material sifatida o'quvchilarga ulashish uchun xavfsiz hisoblanadi."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: PDF Hujjat (%PDF)"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "pass",
+            "detail": "100% ishonchli (PDF Hujjat (%PDF))"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "100% xavfsiz · Ta'limiy material (PDF)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T06:13:56.106Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "78f5c7c3-0293-44de-855a-9c4edf3cf7f6",
+      "chatId": "6999969765",
+      "ownerChatId": "1801618199",
+      "messageId": 3549,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Мансурбек Мамарасулович",
+      "senderUsername": "IIVMG7",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3549.jpg",
+      "verdict": "safe",
+      "isCompletelySafe": true,
+      "safetyPercentage": 100,
+      "riskScore": 0,
+      "trustScore": 70,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "Statistik jadval (Tasvir)",
+      "whatIsInside": "Ushbu rasmda 2026-yil 15-oktabr sanasi uchun Andijon viloyatining turli tumanlari kesimida elektr energiyasi yoki shunga o'xshash resurslar iste'moli bo'yicha statistik jadval tasvirlangan. Unda soatlar kesimida 'Kecha' va 'Bugun' ko'rsatkichlari hamda ulardagi farq aks ettirilgan.",
+      "authenticityVerdict": "Ma'lumotlar vizual jihatdan oddiy hisobot jadvaliga o'xshaydi, ammo sanaga e'tibor bering: unda '15.10.2026' yozilgan. Hozirgi sana bilan solishtirganda, bu kelajakdagi sana yoki xato kiritilgan ma'lumot bo'lishi mumkin. Shuningdek, 23:00 va 23:59 ustunlaridagi 'Farki' qismi faqat manfiy qiymatlardan iborat bo'lib, bu ma'lumotlarni yig'ish jarayonida tizimli xatolik bo'lganini yoki jadval noto'g'ri shakllantirilganini anglatadi.",
+      "summary": "Hurmatli foydalanuvchi, tahlil qilingan rasm texnik jihatdan mutlaqo xavfsiz va tarkibida hech qanday virus yoki zararli kod mavjud emas. Biroq, jadvaldagi sananing kelajakka tegishli ekanligi va hisobotdagi matematik nomutanosibliklar ma'lumotning ishonchliligiga shubha uyg'otadi.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T06:13:47.572Z",
+      "analysis": {
+        "id": "8c0eba0c-bcf7-4470-8946-e3fed16ca0b5",
+        "targetName": "Telegram_Rasm_3549.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 92573,
+        "sha256": "2fe650f42635cce0881fe481171201a12e5cd21b0c2bb6f6ca9f4428df8ec821",
+        "verdict": "safe",
+        "isCompletelySafe": true,
+        "safetyPercentage": 100,
+        "riskScore": 0,
+        "trustScore": 70,
+        "threatCategory": "Statistik jadval (Tasvir)",
+        "whatIsInside": "Ushbu rasmda 2026-yil 15-oktabr sanasi uchun Andijon viloyatining turli tumanlari kesimida elektr energiyasi yoki shunga o'xshash resurslar iste'moli bo'yicha statistik jadval tasvirlangan. Unda soatlar kesimida 'Kecha' va 'Bugun' ko'rsatkichlari hamda ulardagi farq aks ettirilgan.",
+        "authenticityVerdict": "Ma'lumotlar vizual jihatdan oddiy hisobot jadvaliga o'xshaydi, ammo sanaga e'tibor bering: unda '15.10.2026' yozilgan. Hozirgi sana bilan solishtirganda, bu kelajakdagi sana yoki xato kiritilgan ma'lumot bo'lishi mumkin. Shuningdek, 23:00 va 23:59 ustunlaridagi 'Farki' qismi faqat manfiy qiymatlardan iborat bo'lib, bu ma'lumotlarni yig'ish jarayonida tizimli xatolik bo'lganini yoki jadval noto'g'ri shakllantirilganini anglatadi.",
+        "politeSummary": "Hurmatli foydalanuvchi, tahlil qilingan rasm texnik jihatdan mutlaqo xavfsiz va tarkibida hech qanday virus yoki zararli kod mavjud emas. Biroq, jadvaldagi sananing kelajakka tegishli ekanligi va hisobotdagi matematik nomutanosibliklar ma'lumotning ishonchliligiga shubha uyg'otadi.",
+        "technicalDetails": [
+          "Fayl formati: Standart JPEG tasvir (hech qanday yashirin steganografik kodlar aniqlanmadi).",
+          "Tasvir mazmuni: Andijon viloyati tumanlari bo'yicha statistik ma'lumotlar jadvali.",
+          "Sana anomaliyasi: Hujjatda 2026-yil sanasi ko'rsatilgan, bu esa ma'lumotning haqiqiyligiga oid savol tug'diradi.",
+          "Matematik xatolik: 23:00 va 23:59 oraliqlaridagi 'Farki' ustunlarida faqat salbiy (minus) qiymatlar mavjud, bu hisobotdagi texnik nosozlikdan dalolat beradi."
+        ],
+        "recommendations": [
+          "Ushbu hujjatdagi ma'lumotlarni rasmiy manbalar bilan solishtiring, chunki undagi raqamlar va sana mantiqiy xatoliklarga ega.",
+          "Agar bu faylni kimdir sizga ma'lumot sifatida yuborgan bo'lsa, uning manbasini va sana nima uchun 2026-yil deb ko'rsatilganini aniqlashtiring.",
+          "Fayl xavfsiz bo'lgani uchun uni o'chirish shart emas, lekin uning mazmuniga ko'r-ko'rona ishonmang."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "warn",
+            "detail": "70% ishonchli (JPEG Tasvir)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "pass",
+            "detail": "100% xavfsiz · Statistik jadval (Tasvir)"
+          }
+        ],
+        "analyzedAt": "2026-10-16T06:13:47.572Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "38fa8c32-90fc-4497-a247-12b143aa99d0",
+      "chatId": "1970647623",
+      "ownerChatId": "1801618199",
+      "messageId": 3548,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "1111",
+      "targetType": "document",
+      "targetName": "Мадаминов Ш. З. 2871.doc",
+      "verdict": "suspicious",
+      "isCompletelySafe": false,
+      "safetyPercentage": 40,
+      "riskScore": 60,
+      "trustScore": 30,
+      "detectedFormat": "Noma'lum binar fayl",
+      "threatCategory": "Fayl turi nomutanosibligi va yashirin metadata",
+      "whatIsInside": "Ushbu fayl '.doc' kengaytmasi bilan nomlangan bo'lsa-da, uning ichki tuzilmasi matnli hujjat emas, balki Adobe Photoshop CS5 tomonidan yaratilgan yoki qayta ishlangan rasm/grafik obyektdir. Fayl ichida 'Adobe Photoshop' metadatalari va turli xil XML havolalar (ns.adobe.com) mavjud. Bu fayl aslida matn hujjati emas, balki rasm fayli bo'lib, fayl formatini ataylab o'zgartirish (masalan, .jpg yoki .png ni .doc qilib nomlash) kiberhujumchilar tomonidan foydalanuvchini chalg'itish uchun keng qo'llaniladigan usuldir.",
+      "authenticityVerdict": "Ma'lumot shubhali. Hujjatning kengaytmasi va uning haqiqiy tarkibi o'rtasida katta nomutanosiblik bor. Bu fayl 'Мадаминов Ш. З.' nomli shaxsga tegishli rasmiy hujjat bo'lishi ehtimoli juda past.",
+      "summary": "Hurmatli foydalanuvchi, siz yuborgan faylni chuqur tahlil qildim. Fayl ko'rinishidan hujjatga o'xshasa-da, texnik jihatdan u shubhali grafik fayldir. Iltimos, bunday fayllarni ochishda juda ehtiyot bo'ling, chunki bu foydalanuvchini aldash maqsadida qilingan bo'lishi mumkin.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T06:13:37.159Z",
+      "analysis": {
+        "id": "27e15386-455f-4c1f-bb78-ac9c8e3c7cd2",
+        "targetName": "Мадаминов Ш. З. 2871.doc",
+        "targetType": "document",
+        "mimeType": "application/msword",
+        "detectedFormat": "Noma'lum binar fayl",
+        "extensionMatchesBinary": true,
+        "fileSize": 455680,
+        "sha256": "3ee0a010fa01896f8b0b1cfcf5dba27784c5e9d14e367761bef15283091165f1",
+        "verdict": "suspicious",
+        "isCompletelySafe": false,
+        "safetyPercentage": 40,
+        "riskScore": 60,
+        "trustScore": 30,
+        "threatCategory": "Fayl turi nomutanosibligi va yashirin metadata",
+        "whatIsInside": "Ushbu fayl '.doc' kengaytmasi bilan nomlangan bo'lsa-da, uning ichki tuzilmasi matnli hujjat emas, balki Adobe Photoshop CS5 tomonidan yaratilgan yoki qayta ishlangan rasm/grafik obyektdir. Fayl ichida 'Adobe Photoshop' metadatalari va turli xil XML havolalar (ns.adobe.com) mavjud. Bu fayl aslida matn hujjati emas, balki rasm fayli bo'lib, fayl formatini ataylab o'zgartirish (masalan, .jpg yoki .png ni .doc qilib nomlash) kiberhujumchilar tomonidan foydalanuvchini chalg'itish uchun keng qo'llaniladigan usuldir.",
+        "authenticityVerdict": "Ma'lumot shubhali. Hujjatning kengaytmasi va uning haqiqiy tarkibi o'rtasida katta nomutanosiblik bor. Bu fayl 'Мадаминов Ш. З.' nomli shaxsga tegishli rasmiy hujjat bo'lishi ehtimoli juda past.",
+        "politeSummary": "Hurmatli foydalanuvchi, siz yuborgan faylni chuqur tahlil qildim. Fayl ko'rinishidan hujjatga o'xshasa-da, texnik jihatdan u shubhali grafik fayldir. Iltimos, bunday fayllarni ochishda juda ehtiyot bo'ling, chunki bu foydalanuvchini aldash maqsadida qilingan bo'lishi mumkin.",
+        "technicalDetails": [
+          "Fayl kengaytmasi .doc bo'lishiga qaramay, uning ichki qismi Adobe Photoshop tasvirlari va metadata bloklarini o'z ichiga oladi.",
+          "Binar imzo tahlili hujjat formatiga mos kelmaydi va faylni Adobe Photoshop CS5 Windows tizimida yaratilganligini ko'rsatmoqda.",
+          "Fayl metadatalarida 'Adobe_CM' va turli xil XML sxemalari mavjud bo'lib, ular odatiy matnli hujjatlarda bo'lmaydi.",
+          "MIME turi va fayl formati o'rtasidagi nomutanosiblik uni 'potensial zararli' toifasiga kiritishga asos bo'ladi."
+        ],
+        "recommendations": [
+          "Ushbu faylni ochmaslikni va zudlik bilan o'chirib tashlashni tavsiya qilaman.",
+          "Agar bu faylni kimdir sizga yuborgan bo'lsa, yuboruvchidan nima uchun hujjat formati rasm fayli ekanligini so'rang.",
+          "Noma'lum manbalardan kelgan, formati shubhali bo'lgan fayllarni hech qachon shaxsiy kompyuter yoki telefoningizda ishga tushirmang."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart document formati (Noma'lum binar fayl)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: Noma'lum binar fayl"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "fail",
+            "detail": "30% ishonchli (Noma'lum binar fayl)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "warn",
+            "detail": "40% xavfsiz · Fayl turi nomutanosibligi va yashirin metadata"
+          }
+        ],
+        "analyzedAt": "2026-10-16T06:13:37.159Z",
+        "source": "telegram"
+      }
+    },
+    {
+      "id": "e533f1d6-6ff0-4d63-aac9-4617053be778",
+      "chatId": "1801618199",
+      "ownerChatId": "1801618199",
+      "messageId": 3546,
+      "businessConnectionId": "x0h1JdGRgUrYLQAAgR0amz63AFg",
+      "senderName": "Andijon viloyat IIB NQ",
+      "senderUsername": "user01_44",
+      "targetType": "image",
+      "targetName": "Telegram_Rasm_3546.jpg",
+      "verdict": "suspicious",
+      "isCompletelySafe": false,
+      "safetyPercentage": 40,
+      "riskScore": 60,
+      "trustScore": 10,
+      "detectedFormat": "JPEG Tasvir",
+      "threatCategory": "Shaxsiy ma'lumotlarni fosh qiluvchi (Doxing) / Soxta rasmiy hujjat",
+      "whatIsInside": "Ushbu rasmda yo'l-transport hodisasi (YTH) haqidagi ichki xizmat xabari matni aks etgan. Matnda aniq shaxslarning (Yigitaliyev Oxunjon va Tojiboyev Shoxrux) ism-sharifi, tug'ilgan sanasi, yashash manzili va ular ishtirok etgan hodisa tafsilotlari keltirilgan. Bu shaxsiy ma'lumotlarni himoya qilish qonunchiligiga zid ravishda tarqatilgan va kiberxavfsizlik nuqtai nazaridan shaxsiy hayot daxlsizligini buzuvchi hujjat hisoblanadi.",
+      "authenticityVerdict": "Hujjat mazmuni va undagi sana (2026-yil) mantiqiy jihatdan xato va gumonli. Hozirgi sana hali 2026-yilga yetmagan bo'lsa-da, hujjatda ushbu sana ko'rsatilgani uning soxta ekanligini yoki tizimli xatolikni bildiradi. Shuningdek, bunday maxfiy ma'lumotlarning ijtimoiy tarmoqlarda ochiq tarqalishi uning rasmiy maqomiga ishonchsizlik uyg'otadi.",
+      "summary": "Hurmatli foydalanuvchi, siz yuborgan hujjat tasviri shaxsiy ma'lumotlarni o'z ichiga olgani va mazmuni bo'yicha mantiqiy xatolarga ega bo'lgani uchun xavfli hisoblanadi. Iltimos, bunday turdagi hujjatlarni ochiq kanallar orqali tarqatishdan saqlaning.",
+      "deletedAutomatically": false,
+      "pendingUserConfirmation": false,
+      "timestamp": "2026-10-16T06:12:36.087Z",
+      "analysis": {
+        "id": "f5376f25-5b58-4ac5-b4a5-162ec7ced45c",
+        "targetName": "Telegram_Rasm_3546.jpg",
+        "targetType": "image",
+        "mimeType": "image/jpeg",
+        "detectedFormat": "JPEG Tasvir",
+        "extensionMatchesBinary": true,
+        "fileSize": 112595,
+        "sha256": "1c78ccff2d8d6c0201f5c753c2a68280a72c53fb1a1593bd70209a4cc293d253",
+        "verdict": "suspicious",
+        "isCompletelySafe": false,
+        "safetyPercentage": 40,
+        "riskScore": 60,
+        "trustScore": 10,
+        "threatCategory": "Shaxsiy ma'lumotlarni fosh qiluvchi (Doxing) / Soxta rasmiy hujjat",
+        "whatIsInside": "Ushbu rasmda yo'l-transport hodisasi (YTH) haqidagi ichki xizmat xabari matni aks etgan. Matnda aniq shaxslarning (Yigitaliyev Oxunjon va Tojiboyev Shoxrux) ism-sharifi, tug'ilgan sanasi, yashash manzili va ular ishtirok etgan hodisa tafsilotlari keltirilgan. Bu shaxsiy ma'lumotlarni himoya qilish qonunchiligiga zid ravishda tarqatilgan va kiberxavfsizlik nuqtai nazaridan shaxsiy hayot daxlsizligini buzuvchi hujjat hisoblanadi.",
+        "authenticityVerdict": "Hujjat mazmuni va undagi sana (2026-yil) mantiqiy jihatdan xato va gumonli. Hozirgi sana hali 2026-yilga yetmagan bo'lsa-da, hujjatda ushbu sana ko'rsatilgani uning soxta ekanligini yoki tizimli xatolikni bildiradi. Shuningdek, bunday maxfiy ma'lumotlarning ijtimoiy tarmoqlarda ochiq tarqalishi uning rasmiy maqomiga ishonchsizlik uyg'otadi.",
+        "politeSummary": "Hurmatli foydalanuvchi, siz yuborgan hujjat tasviri shaxsiy ma'lumotlarni o'z ichiga olgani va mazmuni bo'yicha mantiqiy xatolarga ega bo'lgani uchun xavfli hisoblanadi. Iltimos, bunday turdagi hujjatlarni ochiq kanallar orqali tarqatishdan saqlaning.",
+        "technicalDetails": [
+          "Matn tarkibida shaxslarning shaxsiy ID ma'lumotlari (tug'ilgan sanasi va manzili) oshkor qilingan.",
+          "Hujjatda keltirilgan sana (2026-yil) kelajakdagi sanani ko'rsatmoqda, bu uning soxta yoki noto'g'ri shakllantirilganini anglatadi.",
+          "Binar tahlil rasm fayli ichida hech qanday yashirin zararli kod (malware) aniqlamadi.",
+          "Fayl metama'lumotlari va tarkibi ma'lumotlarning maxfiyligini buzish maqsadida yaratilganligini ko'rsatmoqda."
+        ],
+        "recommendations": [
+          "Ushbu faylni tarqatishdan saqlaning, chunki u shaxsiy ma'lumotlar xavfsizligini buzadi.",
+          "Ushbu turdagi ma'lumotlarni yuborgan shaxs bilan aloqani cheklang va manbani bloklang.",
+          "Agar bu hujjat sizga biror tahdid yoki shantaj uchun yuborilgan bo'lsa, huquqni muhofaza qiluvchi organlarga xabar bering."
+        ],
+        "indicators": [
+          {
+            "label": "Fayl Kengaytmasi",
+            "status": "pass",
+            "detail": "Standart image formati (JPEG Tasvir)"
+          },
+          {
+            "label": "Ijtimoiy Muhandislik Tekshiruvi",
+            "status": "pass",
+            "detail": "Fayl nomida shubhali aldov iboralari topilmadi"
+          },
+          {
+            "label": "Haqiqiy Binar Imzo (Magic Bytes)",
+            "status": "pass",
+            "detail": "Format tasdiqlandi: JPEG Tasvir"
+          },
+          {
+            "label": "Ma'lumot Haqiqiyligi va Ishonchliligi",
+            "status": "fail",
+            "detail": "10% ishonchli (JPEG Tasvir)"
+          },
+          {
+            "label": "POSBON AI Neyron Tahlili",
+            "status": "warn",
+            "detail": "40% xavfsiz · Shaxsiy ma'lumotlarni fosh qiluvchi (Doxing) / Soxta rasmiy hujjat"
+          }
+        ],
+        "analyzedAt": "2026-10-16T06:12:36.086Z",
+        "source": "telegram"
+      }
+    }
+  ],
+  "deletedFiles": []
+}
